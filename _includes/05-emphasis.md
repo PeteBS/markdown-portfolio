@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Trying* to learn code, _But_ I am stupid 😄 _Gotta try though_
